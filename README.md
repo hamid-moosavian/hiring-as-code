@@ -19,6 +19,8 @@ This repo is the canonical home of the framework.
 
 **Current version:** `v0.1`
 
+**Visual diagrams:** See the [diagrams folder](./diagrams/) for visual representations of each pillar ([view diagrams](./diagrams/DIAGRAMS.md)).
+
 ---
 
 ## Core Principles
@@ -304,24 +306,23 @@ You can also:
 
 This repo uses simple versioning for the framework itself:
 
-**v0.1** (November 2024)
+**v0.1** (November 2025)
 - Initial public framework
 - Seven pillars defined
 - "Where the Analogy Breaks" section included
 - Concrete examples for each pillar
+- Visual diagrams for each pillar
 
 Future versions can add:
 - Concrete templates and sample configs
 - Metrics dashboards and reports
 - Case studies from teams using this model
-- Visual diagrams for each pillar
 
 ---
 
 ## Roadmap (High Level)
 
 Planned next steps for this repo:
-- Add diagrams for the seven pillars
 - Add concrete templates and examples for each pillar
 - Add stories and case studies from real teams using this model
 - Community contributions and variations
