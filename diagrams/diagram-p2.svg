@@ -1,0 +1,36 @@
+<svg width="300" height="420" viewBox="0 0 300 420" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .txt { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 20px; fill: #111827; }
+    .check { fill: #16a34a; }
+    .circle { fill: #9ca3af; }
+    .arrow { fill: #6b7280; font-size: 22px; }
+  </style>
+
+  <!-- Phone Screen -->
+  <circle cx="40" cy="40" r="8" class="check"/>
+  <text x="60" y="46" class="txt">Phone Screen</text>
+
+  <text x="42" y="80" class="arrow">↓</text>
+
+  <!-- Technical -->
+  <circle cx="40" cy="120" r="8" class="check"/>
+  <text x="60" y="126" class="txt">Technical</text>
+
+  <text x="42" y="160" class="arrow">↓</text>
+
+  <!-- System Design -->
+  <circle cx="40" cy="200" r="8" class="circle"/>
+  <text x="60" y="206" class="txt">System Design</text>
+
+  <text x="42" y="240" class="arrow">↓</text>
+
+  <!-- Team Fit -->
+  <circle cx="40" cy="280" r="8" class="circle"/>
+  <text x="60" y="286" class="txt">Team Fit</text>
+
+  <text x="42" y="320" class="arrow">↓</text>
+
+  <!-- Offer -->
+  <circle cx="40" cy="360" r="8" class="circle"/>
+  <text x="60" y="366" class="txt">Offer</text>
+</svg>

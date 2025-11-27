@@ -1,0 +1,28 @@
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { font-family: system-ui, -apple-system, sans-serif; font-size: 16px; fill: #111827; }
+  </style>
+
+  <!-- Mainline dots + line (GREEN) -->
+  <line x1="200" y1="80" x2="400" y2="80" stroke="#10b981" stroke-width="2"/>
+  <line x1="400" y1="80" x2="600" y2="80" stroke="#10b981" stroke-width="2"/>
+  <circle cx="200" cy="80" r="8" fill="#10b981"/>
+  <circle cx="400" cy="80" r="8" fill="#10b981"/>
+  <circle cx="600" cy="80" r="8" fill="#10b981"/>
+
+  <!-- Mainline labels -->
+  <text x="200" y="110" text-anchor="middle" class="label">v1.0</text>
+  <text x="400" y="110" text-anchor="middle" class="label">v2.0</text>
+  <text x="600" y="110" text-anchor="middle" class="label">v2.1</text>
+
+  <!-- Branch line + dots (ORANGE) -->
+  <line x1="400" y1="80" x2="500" y2="140" stroke="#f97316" stroke-width="2"/>
+  <line x1="500" y1="140" x2="650" y2="140" stroke="#f97316" stroke-width="2"/>
+
+  <circle cx="500" cy="140" r="8" fill="#f97316"/>
+  <circle cx="650" cy="140" r="8" fill="#f97316"/>
+
+  <!-- Branch labels -->
+  <text x="500" y="170" text-anchor="middle" class="label">v2.0-fe</text>
+  <text x="650" y="170" text-anchor="middle" class="label">v2.1-fe</text>
+</svg>

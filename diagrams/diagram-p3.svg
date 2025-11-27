@@ -1,0 +1,37 @@
+<svg width="780" height="230" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; fill: #111827; font-size: 20px; }
+    .check { fill: #10B981; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 22px; font-weight: 600; }
+    .dash { fill: #9CA3AF; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 22px; font-weight: 600; }
+  </style>
+
+  <!-- Column Headers -->
+  <text x="260" y="40" class="text">Coding</text>
+  <text x="390" y="40" class="text">System</text>
+  <text x="520" y="40" class="text">Comm</text>
+  <text x="650" y="40" class="text">Culture</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="55" x2="740" y2="55" stroke="#D1D5DB" stroke-width="2"/>
+
+  <!-- Row 1 -->
+  <text x="40" y="100" class="text">Tech Screen</text>
+  <text x="275" y="100" class="check">✓</text>
+  <text x="405" y="100" class="dash">-</text>
+  <text x="535" y="100" class="check">✓</text>
+  <text x="665" y="100" class="dash">-</text>
+
+  <!-- Row 2 -->
+  <text x="40" y="145" class="text">System Design</text>
+  <text x="275" y="145" class="dash">-</text>
+  <text x="405" y="145" class="check">✓</text>
+  <text x="535" y="145" class="check">✓</text>
+  <text x="665" y="145" class="dash">-</text>
+
+  <!-- Row 3 -->
+  <text x="40" y="190" class="text">Team Interview</text>
+  <text x="275" y="190" class="dash">-</text>
+  <text x="405" y="190" class="dash">-</text>
+  <text x="535" y="190" class="check">✓</text>
+  <text x="665" y="190" class="check">✓</text>
+</svg>

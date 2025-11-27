@@ -1,0 +1,37 @@
+<svg width="800" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif; font-size: 18px; fill: #111827; }
+    .small { font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif; font-size: 16px; fill: #111827; }
+    .muted { fill: #6b7280; }
+    .check { fill: #10b981; }
+  </style>
+
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" class="label">Interview progress</text>
+
+  <!-- Progress bar background -->
+  <rect x="180" y="70" width="440" height="18" rx="9" fill="#e5e7eb"/>
+
+  <!-- Progress bar fill (60%) -->
+  <rect x="180" y="70" width="264" height="18" rx="9" fill="#10b981"/>
+
+  <!-- Progress percentage -->
+  <text x="640" y="84" text-anchor="middle" class="small muted">60%</text>
+
+  <!-- Steps -->
+  <text x="220" y="130" class="small">
+    <tspan class="check">✓</tspan> Phone Screen
+  </text>
+
+  <text x="220" y="160" class="small">
+    <tspan class="check">✓</tspan> Technical
+  </text>
+
+  <text x="220" y="190" class="small">
+    <tspan class="muted">○</tspan> System Design
+  </text>
+
+  <text x="220" y="220" class="small">
+    <tspan class="muted">○</tspan> Team Fit
+  </text>
+</svg>

@@ -1,0 +1,35 @@
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Mono", Menlo, monospace; font-size: 18px; fill: #111827; }
+    .value { font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Mono", Menlo, monospace; font-size: 16px; fill: #111827; }
+  </style>
+
+  <!-- Row 1 -->
+  <text x="80" y="50" class="label">Time-to-Fill</text>
+  <!-- Bar background -->
+  <rect x="260" y="36" width="260" height="14" rx="7" fill="#e5e7eb"/>
+  <!-- Filled bar (80%) -->
+  <rect x="260" y="36" width="208" height="14" rx="7" fill="#22c55e"/>
+  <text x="540" y="50" class="value">42d</text>
+
+  <!-- Row 2 -->
+  <text x="80" y="95" class="label">Offer Accept</text>
+  <rect x="260" y="81" width="260" height="14" rx="7" fill="#e5e7eb"/>
+  <!-- Filled bar (85%) -->
+  <rect x="260" y="81" width="221" height="14" rx="7" fill="#22c55e"/>
+  <text x="540" y="95" class="value">85%</text>
+
+  <!-- Row 3 -->
+  <text x="80" y="140" class="label">Conversion</text>
+  <rect x="260" y="126" width="260" height="14" rx="7" fill="#e5e7eb"/>
+  <!-- Filled bar (60%) -->
+  <rect x="260" y="126" width="156" height="14" rx="7" fill="#22c55e"/>
+  <text x="540" y="140" class="value">68%</text>
+
+  <!-- Row 4 -->
+  <text x="80" y="185" class="label">Quality Score</text>
+  <rect x="260" y="171" width="260" height="14" rx="7" fill="#e5e7eb"/>
+  <!-- Filled bar (80%) -->
+  <rect x="260" y="171" width="208" height="14" rx="7" fill="#22c55e"/>
+  <text x="540" y="185" class="value">4.2/5</text>
+</svg>
