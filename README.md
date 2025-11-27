@@ -348,11 +348,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 Hiring as Code is part of the [HiringStack](https://hiringstack.io) project.
 
-Created by [Hamid Moosavian](https://github.com/hamidm) based on 20+ years of engineering leadership and hiring experience.
+Created by [Hamid Moosavian](https://github.com/hamid-moosavian) based on 20+ years of engineering leadership and hiring experience.
 
 The goal is to give engineering leaders practical tools and mental models for building better hiring systems.
 
-**Feedback welcome:** Open an issue or reach out via [LinkedIn](https://linkedin.com/in/hamidmoosavian).
+**Feedback welcome:** Open an issue or reach out via [LinkedIn](https://linkedin.com/in/hamid-moosavian).
 
 ---
 
